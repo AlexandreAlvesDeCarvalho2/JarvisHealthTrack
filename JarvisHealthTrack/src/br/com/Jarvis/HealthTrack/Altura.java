@@ -32,7 +32,7 @@ public class Altura implements Serializable {
 		this.dataAltura = dataAltura;
 	}
 	/**
-	 * Construtor padrão
+	 * Construtor padrÃ£o
 	 */
 	public Altura() {
 		
@@ -40,7 +40,7 @@ public class Altura implements Serializable {
 	
 	/**
 	 * verifica a altura
-	 * @return
+	 * @return altura
 	 */
 	
 	public double getAltura() {
@@ -55,7 +55,7 @@ public class Altura implements Serializable {
 	}
 	/**
 	 * verifica a data da altura
-	 * @return
+	 * @return dataAltura
 	 */
 	
 	public String getDataAltura() {
