@@ -61,7 +61,7 @@ public class Atividade implements Serializable {
 	}
 	/**
 	 * verifica a data da atividade
-	 * @return
+	 * @return dataAtividade
 	 */
 
 	public String getDataAtividade() {
@@ -77,7 +77,7 @@ public class Atividade implements Serializable {
 	}
 	/**
 	 * verifica o tempo total da Atividade
-	 * @return
+	 * @return tempoTotalAtividade
 	 */
 	
 
@@ -95,7 +95,7 @@ public class Atividade implements Serializable {
 	
 	/**
 	 * verifica as calorias gastas na atividade
-	 * @return
+	 * @return caloriaAtividade
 	 */
 
 	public String getCaloriaAtividade() {
